@@ -30,7 +30,7 @@ public class Copiercoller {
 		driver.get("https://www.facebook.com/?locale=fr_FR");
 		
 		//declaration des variable
-		WebElement Bouton,Prenom,nom;Email;confirmation,jour,annee,gener,sinscrire
+		WebElement Bouton,Prenom,nom,Email,confirmation,jour,annee,gener,sinscrire;
 		
 		//identification des element 
 		
