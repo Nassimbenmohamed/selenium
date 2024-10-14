@@ -40,7 +40,7 @@ public class Dropdownliste1 {
 				select.selectByValue("7");
 				
 				System.out.println("testok");
-				driver.close();
+				
 
 	}
 

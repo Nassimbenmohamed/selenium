@@ -36,9 +36,9 @@ public class ListDeroulant {
 		List=driver.findElement(By.id("oldSelectMenu"));
 		
 		//Action
-		Select select =new Select(List);
+		Select s =new Select(List);
 		
-		select.selectByValue("7");
+		s.selectByValue("7");
 		
 		
 		
